@@ -1,0 +1,13 @@
+#include "PKBRootListController.h"
+
+@implementation PKBRootListController
+
+- (NSArray *)specifiers {
+	if (!_specifiers) {
+		_specifiers = [self loadSpecifiersFromPlistName:@"Root" target:self];
+	}
+
+	return _specifiers;
+}
+
+@end

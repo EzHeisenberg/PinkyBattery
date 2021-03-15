@@ -2,8 +2,8 @@ Package: fr.ezheisenberg.pinkybattery
 Name: PinkyBattery
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Color your battery with PINKKK
 Maintainer: EzHeisenberg
 Author: EzHeisenberg
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
