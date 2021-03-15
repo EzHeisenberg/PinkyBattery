@@ -1,5 +1,9 @@
 # PinkyBattery
 
+This Tweak is used to change the color of the battery of an iPhone jailbreak.
+
+
+
 
 ## Feature
 - Display the battery percentage on your battery
